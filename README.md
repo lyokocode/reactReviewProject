@@ -2,5 +2,5 @@
 
 ## React Project
 
-### demo
+### demo:
 https://aelita-reviews.netlify.app
